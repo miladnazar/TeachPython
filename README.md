@@ -1,5 +1,5 @@
 # TeachPython
-Teach Python to Jawid and Haboo
+Teach Python to Jawaid and Haboo
 I will teach Python within a month. 
 From Milad Nazar to Everyone:  10:25 PM
 

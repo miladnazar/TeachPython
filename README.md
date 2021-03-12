@@ -34,7 +34,7 @@ Git add .
 
 Git commit -m “Python Folders”
 
-Zoom link: https://us02web.zoom.us/j/81354471990?pwd=TFRWSVIyVTEvZG1wTEZ4aEQ1VkNZZz09
+New Link: https://us02web.zoom.us/j/81280962131?pwd=U0RKT0dMN28xWkhlSWFYOWw3V2VnZz09
 
 Git push
 
